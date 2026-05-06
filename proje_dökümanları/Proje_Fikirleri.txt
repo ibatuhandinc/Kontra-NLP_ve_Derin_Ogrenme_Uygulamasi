@@ -1,0 +1,12 @@
+Hey chat selam
+Whatsapp üzerinden müşterilere destek veren firmaları hedef alan bir proje geliştiriyoruz. projemizin amacı geçmişteki ve gelecekteki müşteri ile sohbeti analiz edip yapay zeka tabanlı rapor oluşturmak. kullanıcının yazdığı metinlere göre mesela kargo çok yavaştı, ürün kalitesini beğenmedim, müşteri destek hattındaki personel iyi değildi, iade problemi var vs. gibi dönütlere göre bilgi veren hangi departmanda sıkıntı olduğunu analiz edip raporlayan bir proje geliştireceğiz. 
+
+bunu yaparken gelecekteki sohbetler için whatsapp buisness hesabı üzeriden webhook ile mesajları analiz edeceğiz 
+
+model eğitimi için kendimiz dataset oluşturacağız. bunun üzerinden eğitim yapacağız. Örneğin whatsapp mesajlarını arşivleden çıkartıp dataset oluşturacagız
+
+modeli hugging faceden alacağız. nasıl eğiteceğimiz hakkında bilgi ver.
+
+genel olarak sıfırdan projeyi detaylı şekilde anlatır mısın? 
+
+Projeyi nasıl yapabilirz bu konuda detyalıc bir yol haritası isityorum senden
