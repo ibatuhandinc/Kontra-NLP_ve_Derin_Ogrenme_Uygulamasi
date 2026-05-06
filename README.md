@@ -1,6 +1,7 @@
 # Kontra 🚀
 **Deep Learning & NLP Project**
 
+<<<<<<< HEAD
 Bu proje, **Osmaniye Korkut Ata Üniversitesi Bilgisayar Mühendisliği Lisans Programı** bünyesindeki *Derin Öğrenme ve Doğal Dil İşleme* dersi kapsamında geliştirilmektedir.
 
 Kontra, Telegram üzerinden müşteri desteği sağlayan firmalar için uçtan uca (end-to-end) geliştirilmiş bir yapay zeka destek asistanı ve veri analitiği platformudur. Sistem, müşteri mesajlarını yanıtlar, veritabanında arşivler, özel olarak eğitilmiş (fine-tuned) bir derin öğrenme modeli ile bu verileri analiz eder ve sonuçları yönetici paneline (dashboard) aktararak departman bazlı içgörüler sunar.
@@ -43,3 +44,13 @@ Projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları izleyi
 ## 👥 Geliştiriciler
 * **Batuhan Dinç**
 * **Mehmet Mikail Öztaş**
+=======
+Bu proje, Osmaniye Korkut Ata Üniversitesi Bilgisayar Mühendisliği bünyesindeki 
+Derin Öğrenme ve Doğal Dil İşleme dersi kapsamında geliştirilmektedir.
+
+## 👥 Geliştiriciler
+* **Batuhan Dinç**
+* **Mehmet Mikail Öztaş**
+
+---
+>>>>>>> 9681f7ad819d26f9858e25ba4fb874203b9ae008
